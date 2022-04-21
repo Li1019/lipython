@@ -1,0 +1,10 @@
+2022-04-18 19:11:52.683 | DEBUG    | __main__:<module>:50 - test
+2022-04-18 19:11:52.683 | INFO     | __main__:<module>:51 - test
+2022-04-18 19:11:52.683 | WARNING  | __main__:<module>:52 - test
+2022-04-18 19:11:52.683 | ERROR    | __main__:<module>:53 - test
+2022-04-18 19:11:52.683 | CRITICAL | __main__:<module>:54 - test
+2022-04-18 19:12:14.595 | DEBUG    | __main__:<module>:50 - 松青
+2022-04-18 19:12:14.596 | INFO     | __main__:<module>:51 - test
+2022-04-18 19:12:14.596 | WARNING  | __main__:<module>:52 - test
+2022-04-18 19:12:14.596 | ERROR    | __main__:<module>:53 - test
+2022-04-18 19:12:14.596 | CRITICAL | __main__:<module>:54 - test

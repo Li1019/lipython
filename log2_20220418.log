@@ -1,0 +1,52 @@
+2022-04-18 19:50:52.363 | ERROR    | __main__:<module>:71 - Error!!
+Traceback (most recent call last):
+
+> File "/Users/lipan/PycharmProjects/pythonProject/error_log.py", line 69, in <module>
+    print(fun1(10, 0))
+          └ <function fun1 at 0x10f15e950>
+
+  File "/Users/lipan/PycharmProjects/pythonProject/error_log.py", line 65, in fun1
+    return a / b
+           │   └ 0
+           └ 10
+
+ZeroDivisionError: division by zero
+2022-04-18 20:06:43.388 | ERROR    | __main__:<module>:71 - Error!!
+Traceback (most recent call last):
+
+> File "/Users/lipan/PycharmProjects/pythonProject/error_log.py", line 69, in <module>
+    print(fun1(10, 0))
+          └ <function fun1 at 0x10eaa6950>
+
+  File "/Users/lipan/PycharmProjects/pythonProject/error_log.py", line 65, in fun1
+    return a / b
+           │   └ 0
+           └ 10
+
+ZeroDivisionError: division by zero
+2022-04-18 20:07:31.404 | ERROR    | __main__:<module>:71 - Error!!
+Traceback (most recent call last):
+
+> File "/Users/lipan/PycharmProjects/pythonProject/error_log.py", line 69, in <module>
+    print(fun1(10, 0))
+          └ <function fun1 at 0x10c9fa950>
+
+  File "/Users/lipan/PycharmProjects/pythonProject/error_log.py", line 65, in fun1
+    return a / b
+           │   └ 0
+           └ 10
+
+ZeroDivisionError: division by zero
+2022-04-18 20:09:04.346 | ERROR    | __main__:<module>:71 - Error!!
+Traceback (most recent call last):
+
+> File "/Users/lipan/PycharmProjects/pythonProject/error_log.py", line 69, in <module>
+    print(fun1(10, 0))
+          └ <function fun1 at 0x10eef6950>
+
+  File "/Users/lipan/PycharmProjects/pythonProject/error_log.py", line 65, in fun1
+    return a / b
+           │   └ 0
+           └ 10
+
+ZeroDivisionError: division by zero

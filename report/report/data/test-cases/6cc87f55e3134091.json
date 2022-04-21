@@ -1,0 +1,93 @@
+{
+  "uid" : "6cc87f55e3134091",
+  "name" : "test06[2-2]",
+  "fullName" : "test_pytest.Test6#test06",
+  "historyId" : "43f747beffe88b44c510d949571640ad",
+  "time" : {
+    "start" : 1650499176730,
+    "stop" : 1650499176730,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "fun1",
+    "time" : {
+      "start" : 1650499176727,
+      "stop" : 1650499176727,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "fun1::0",
+    "time" : {
+      "start" : 1650499176747,
+      "stop" : 1650499176747,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test6"
+  }, {
+    "name" : "host",
+    "value" : "li-MacBook-Pro"
+  }, {
+    "name" : "thread",
+    "value" : "1076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "actual_result",
+    "value" : "2"
+  }, {
+    "name" : "result",
+    "value" : "2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6cc87f55e3134091.json",
+  "parameterValues" : [ "2", "2" ]
+}

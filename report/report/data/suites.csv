@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 21 08:59:36 JST 2022","Thu Apr 21 08:59:36 JST 2022","0","","test_pytest","Test6","","","test06[1-1]",""
+"passed","Thu Apr 21 08:59:36 JST 2022","Thu Apr 21 08:59:36 JST 2022","0","","test_pytest","Test6","","","test06[2-2]",""
+"failed","Thu Apr 21 08:59:36 JST 2022","Thu Apr 21 08:59:36 JST 2022","0","","test_pytest","Test6","","","test06[3-4]",""

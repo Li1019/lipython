@@ -1,0 +1,46 @@
+# list
+#- 10
+#- 20
+
+# dictionary
+#name: lipan
+#age: 33
+
+#has dict in list
+#-
+# name: lipan
+# age: 21
+#-
+# name: tompee
+# age: 22
+
+#has list in dict
+#name:
+#  - li
+#  - pan
+#  - chen
+#age:
+#  - 20
+#  - 21
+#  - 24
+
+##string list
+#str1: 'hello /nworld'
+#str2: "/nhi"
+
+#set parameter in yaml
+#HOST: &HOST 192.10.33.1
+#url: *HOST
+
+#name: &name li
+#name1: *name
+#name2: *name
+
+#exist dict and list in same yaml
+- 10
+- 20
+---
+name: li
+age: 31
+name: 潘丽
+age: 30
